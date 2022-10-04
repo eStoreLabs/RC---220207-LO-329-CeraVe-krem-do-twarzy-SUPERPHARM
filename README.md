@@ -6,15 +6,15 @@
 
 <!-- please enter link to site preview here -->
 
-![Project live site](./link)
+[Project live site](https://estorelabs.github.io/RC---220207-LO-329-CeraVe-krem-do-twarzy-SUPERPHARM/)
 
 ## PROJECT PREVIEW
 
-![Design preview for the project](https://drive.google.com/file/d/1Pt-mi8yb-L2HHTvIN091n4SkWP3t1r6U/view)
+[Design preview for the project](https://drive.google.com/file/d/1Pt-mi8yb-L2HHTvIN091n4SkWP3t1r6U/view)
 
 ### LINKS TO DESIGNS (in .xd or .psd)
 
-![.psd](https://drive.google.com/drive/folders/1OuCEQVswITHtejXhriEF_4blEuHVYwiC)
+[.psd:](https://drive.google.com/drive/folders/1OuCEQVswITHtejXhriEF_4blEuHVYwiC)
 
 <!-- please enter link to preview designs -->
 
